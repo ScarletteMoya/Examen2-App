@@ -23,9 +23,3 @@ Permite visualizar noticias del equipo de emergencias 911, mostrar información 
 - React Navigation  
 - AsyncStorage  
 
-
-
-
-React Navigation
-
-AsyncStorage
